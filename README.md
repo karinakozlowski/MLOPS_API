@@ -141,6 +141,5 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 #### Karina Kozlowski. <br />
 Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por [LinkedIn](https://bit.ly/3waAAs6)<br />
 =======
-# MLOPS_API
-STEAM PROYECT - Machine Learning Engineering for Production
+
 
