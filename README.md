@@ -25,13 +25,13 @@ El ciclo de vida de un proyecto de Machine Learning contempla desde el tratamien
 <br />
 
 **1. Análisis Exploratorio de Datos (EDA)** <br />
-Inicialmente, recibí tres (3) archivos en formato JSON, los cuales están almacenados en la carpeta **Input** de un repositorio público en **[Google Drive](https://bit.ly/47J98PN).**
+Inicialmente, recibí tres (3) archivos en formato JSON, los cuales están almacenados en la carpeta **Input** de un repositorio público en **[Google Drive](https://bit.ly/3UudUxb).**
 
 Se comienza el proyecto realizando un analisis explotatorio en los Dataset para ver que decisiones tenemos que tomar para luego en el ETL hacer las transformacion necesarias para realizar las consultas y optimizar tanto el rendimiento de la API como el entrenamiento del modelo.
 
 Para ello se utilizó la librería Pandas para la manipulación de los datos y las librerías Matplotlib y Seaborn para la visualización.
 
-Luego de la transformacion de los dataset se volvera hacer un EDA para investigar las relaciones entre variables, identifiqué outliers y busqué patrones interesantes en los datos. El notebook [EDA_Análisis Exploratorio de Datos](Notebooks/EDA_AnálisisExploratorioDatos.ipynb)<br />
+Luego de la transformacion de los dataset se volvera hacer un EDA para investigar las relaciones entre variables, identifiqué outliers y busqué patrones interesantes en los datos. El notebook [EDA_Análisis Exploratorio de Datos](Notebooks/EDA/EDA_AnálisisExploratorioDatos.ipynb)<br />
 
 
 **2. Ingeniería de Datos (ETL y API)** <br />
