@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Steam](https://github.com/JohannaRangel/Proyecto_Individual_1_MLOps/raw/main/assets/steam.png)
 <br />
 # Proyecto MLOps: Sistema de Recomendación de Videojuegos para Usuarios de Steam
@@ -139,3 +140,7 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 ## Autor <br />
 #### Karina Kozlowski. <br />
 Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por [LinkedIn](https://bit.ly/3GigqhE)<br />
+=======
+# MLOPS_API
+STEAM PROYECT - Machine Learning Engineering for Production
+>>>>>>> 952befb67d0022892c1373cbfcc97e94bda623f0
