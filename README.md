@@ -21,7 +21,7 @@ El ciclo de vida de un proyecto de Machine Learning contempla desde el tratamien
 <br />
 
 ## Etapas del Proyecto <br />
-![Etapas](https://github.com/JohannaRangel/Proyecto_Individual_1_MLOps/raw/main/assets/Etapas.png)  
+![Etapas](https://github.com/karinakozlowski/Proyecto_Individual_1_MLOps/raw/main/assets/Diagrama_2.png)  
 <br />
 
 **1. Análisis Exploratorio de Datos (EDA)** <br />
@@ -54,7 +54,7 @@ Implementé una API con FastAPI y se deployó en Render, ésta proporciona cinco
   + Endpoint 4 (best_developer_year): Devuelve el top 3 de desarrolladoras con juegos MAS recomendados por usuarios para el año dado.<br />
   + Endpoint 5 (developer_reviews_analysis): Según el desarrollador, se devuelve un diccionario con el nombre del desarrollador como llave y una lista con la cantidad total de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor positivo o negativo.  
   .<br />
-Para acceder a la funcionalidad completa de la API y explorar las recomendaciones de juegos, puedes visitar este enlace [URL de la API](https://proyecto-individual-1-mlops-9770.onrender.com/docs). En este sitio, encontrarás las diversas funciones desarrolladas. ¡Disfruta explorando!.
+Para acceder a la funcionalidad completa de la API y explorar las recomendaciones de juegos, puedes visitar este enlace [URL de la API](https://proyectomlops-henry.onrender.com). En este sitio, encontrarás las diversas funciones desarrolladas. ¡Disfruta explorando!.
   
 
 
@@ -66,7 +66,7 @@ Creé el sistema de recomendación con uno de los enfoques propuestos:
 Se utilizó la métrica de **similitud del coseno**, ya que mide el coseno del ángulo entre dos vectores. Cuanto más cercano a 1, más similares son los vectores. Este método fue clave para determinar qué tan parecidos son los juegos entre sí. Esto se utiliza para generar recomendaciones, ya que los juegos con vectores similares son considerados como recomendaciones potenciales.<br />
 
 **4. Implementación de MLOps** <br />
-**Deploy del Modelo:** Desplegué el modelo de recomendación como parte de la API, la cual puedes consultar acá: **[URL de la API](https://proyecto-individual-1-mlops-9770.onrender.com/docs)**. 
+**Deploy del Modelo:** Desplegué el modelo de recomendación como parte de la API, la cual puedes consultar acá: **[URL de la API](https://proyectomlops-henry.onrender.com)**. 
 
 
 Para el deploy de la API se seleccionó la plataforma Render que es una nube unificada para crear y ejecutar aplicaciones y sitios web, permitiendo el despliegue automático desde GitHub. Para esto se siguieron estos pasos:
@@ -99,7 +99,7 @@ Grabé un video explicativo que muestra el funcionamiento de la API, consultas r
 ## Ejecutar la API (en su máquina local) <br />
 1. Clonar el repositorio <br />
 ```
-git@github.com:JohannaRangel/Proyecto_Individual_1_MLOps.git
+git@github.com:karinakozlowski/MLOPS_AP.git
 ```
 2. Crear entorno virtual<br />
 ```
@@ -139,7 +139,7 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 
 ## Autor <br />
 #### Karina Kozlowski. <br />
-Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por [LinkedIn](https://bit.ly/3GigqhE)<br />
+Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por [LinkedIn](https://bit.ly/3waAAs6)<br />
 =======
 # MLOPS_API
 STEAM PROYECT - Machine Learning Engineering for Production
