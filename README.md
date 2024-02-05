@@ -21,7 +21,7 @@ El ciclo de vida de un proyecto de Machine Learning contempla desde el tratamien
 <br />
 
 ## Etapas del Proyecto <br />
-![Etapas](https://github.com/karinakozlowski/Proyecto_Individual_1_MLOps/raw/main/assets/Diagrama_2.png)  
+![Etapas](https://github.com/karinakozlowski/MLOPS_API/raw/main/assets/Diagrama_2.png)  
 <br />
 
 **1. Análisis Exploratorio de Datos (EDA)** <br />
