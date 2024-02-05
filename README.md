@@ -80,7 +80,7 @@ Como se indicó anteriormente, para el despliegue automático, Render utiliza Gi
 <br />
 
 **5. Video Explicativo** <br />
-Grabé un video explicativo que muestra el funcionamiento de la API, consultas realizadas y una breve explicación de los modelos de ML utilizados [Youtube](https://www.youtube.com/watch?v=t3N0ePA_D34&t=1s).<br />
+Grabé un video explicativo que muestra el funcionamiento de la API, consultas realizadas y una breve explicación de los modelos de ML utilizados [Youtube](https://www.youtube.com/watch?v=bI15plSaY6o).<br />
 <br />
 
 ## Estructura del Repositorio <br />
@@ -93,7 +93,7 @@ Grabé un video explicativo que muestra el funcionamiento de la API, consultas r
 
 **3. [/assets](assets/):** Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.<br />
 
-**4. [/Video](Video/):** Contiene el video explicativo del proyecto, el cual se encuentra publicado en [Youtube](..........).<br />
+**4. [/Video](Video/):** Contiene el video explicativo del proyecto, el cual se encuentra publicado en [Youtube](https://www.youtube.com/watch?v=bI15plSaY6o).<br />
 <br />
 
 ## Ejecutar la API (en su máquina local) <br />
