@@ -54,7 +54,7 @@ Implementé una API con FastAPI y se deployó en Render, ésta proporciona cinco
   + Endpoint 4 (best_developer_year): Devuelve el top 3 de desarrolladoras con juegos MAS recomendados por usuarios para el año dado.<br />
   + Endpoint 5 (developer_reviews_analysis): Según el desarrollador, se devuelve un diccionario con el nombre del desarrollador como llave y una lista con la cantidad total de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor positivo o negativo.  
   .<br />
-Para acceder a la funcionalidad completa de la API y explorar las recomendaciones de juegos, puedes visitar este enlace [URL de la API](https://proyectomlops-henry.onrender.com). En este sitio, encontrarás las diversas funciones desarrolladas. ¡Disfruta explorando!.
+Para acceder a la funcionalidad completa de la API y explorar las recomendaciones de juegos, puedes visitar este enlace [URL de la API](https://kozlowskikarina.wixsite.com/mlops). En este sitio, encontrarás las diversas funciones desarrolladas. ¡Disfruta explorando!.
   
 
 
@@ -66,7 +66,7 @@ Creé el sistema de recomendación con uno de los enfoques propuestos:
 Se utilizó la métrica de **similitud del coseno**, ya que mide el coseno del ángulo entre dos vectores. Cuanto más cercano a 1, más similares son los vectores. Este método fue clave para determinar qué tan parecidos son los juegos entre sí. Esto se utiliza para generar recomendaciones, ya que los juegos con vectores similares son considerados como recomendaciones potenciales.<br />
 
 **4. Implementación de MLOps** <br />
-**Deploy del Modelo:** Desplegué el modelo de recomendación como parte de la API, la cual puedes consultar acá: **[URL de la API](https://proyectomlops-henry.onrender.com)**. 
+**Deploy del Modelo:** Desplegué el modelo de recomendación como parte de la API, la cual puedes consultar acá: **[URL de la API](https://kozlowskikarina.wixsite.com/mlops)**. 
 
 
 Para el deploy de la API se seleccionó la plataforma Render que es una nube unificada para crear y ejecutar aplicaciones y sitios web, permitiendo el despliegue automático desde GitHub. Para esto se siguieron estos pasos:
