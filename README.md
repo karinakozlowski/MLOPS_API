@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-![Steam](https://github.com/JohannaRangel/Proyecto_Individual_1_MLOps/raw/main/assets/steam.png)
+![Steam](https://github.com/karinakozlowski/MLOPS_API/edit/main/assets/Steam Proyect Mlops.png)
 <br />
 # Proyecto MLOps: Sistema de Recomendación de Videojuegos para Usuarios de Steam
 
