@@ -143,4 +143,4 @@ Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con to
 =======
 # MLOPS_API
 STEAM PROYECT - Machine Learning Engineering for Production
->>>>>>> 952befb67d0022892c1373cbfcc97e94bda623f0
+
