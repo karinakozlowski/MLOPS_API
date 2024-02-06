@@ -95,11 +95,11 @@ Como se indicó anteriormente, para el despliegue automático, Render utiliza Gi
 <br />
 
 **5. Video Explicativo** <br />
-Grabé un video explicativo que muestra el funcionamiento de la API, consultas realizadas y una breve explicación de los modelos de ML utilizados [Youtube](https://youtu.be/-OIHCNS6qLc).<br />
+Grabé un video explicativo que muestra el funcionamiento de la API, consultas realizadas y una breve explicación del de ML utilizado [Youtube](https://youtu.be/-OIHCNS6qLc).<br />
 <br />
 
 ## Estructura del Repositorio <br />
-**1. [/Notebooks](Notebooks/):** Contiene los Notebooks de python y con el Código completo y bien comentado donde se realizaron las extracciones, transformaciones y carga de datos (ETL), análisis exploratorio de los datos (EDA).<br />
+**1. [/Notebooks](Notebooks/):** Contiene los Notebooks de python en Visual studio code, Google Colab y con el Código completo y bien comentado donde se realizaron las extracciones, transformaciones y carga de datos (ETL), análisis exploratorio de los datos (EDA).<br />
 
 **2. [/assets](assets/):** Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.<br />
 
@@ -113,7 +113,7 @@ Grabé un video explicativo que muestra el funcionamiento de la API, consultas r
 ## Ejecutar la API (en su máquina local) <br />
 1. Clonar el repositorio <br />
 ```
-git@github.com:karinakozlowski/MLOPS_AP.git
+git clone https://github.com/karinakozlowski/MLOPS_API
 ```
 2. Crear entorno virtual<br />
 ```
@@ -137,11 +137,11 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## Producto Mínimo Viable (MVP)
+## Propuesta de Mejoras:
 
 Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, se realizaron algunos análisis básicos que se podrían mejorar en próximas etapas, con la idea de lograr un producto completo. Por ejemplo:
 
-  + Análsis de sentimiento: se puede contemplo solo los mensajes en ingles, pero habian de diferentes idiomas.Por otra parte, se puede evaluar el rendimiento del modelo probando con distintos umbrales de clasificación.
+  + Análsis de sentimiento: se contemplo solo los mensajes en ingles, pero habian de diferentes idiomas.Por otra parte, se puede evaluar el rendimiento del modelo probando con distintos umbrales de clasificación.
 
   + Modelos de recomendación: se puede crear un rating que considere la influencia de las horas de juego de los usuarios, la utilizadad hacia otros usuarios de los comentarios, el precio de los juegos, entre otras variables. También se podrían evaluar otras librerías que realizar este tipo de modelos.
 
