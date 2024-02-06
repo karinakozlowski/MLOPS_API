@@ -165,7 +165,7 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
       <div >
         <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank" rel="Author>
           <img width="110" src="https://avatars.githubusercontent.com/u/838109"/>
-       
+        </a>
       </div>
     </tr>
 
