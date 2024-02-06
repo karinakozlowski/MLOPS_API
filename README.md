@@ -161,24 +161,8 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 <!-- Video -->
 <h1> Video
 </h1>
-<p><a href="https://youtu.be/-OIHCNS6qLc" target="_blank"><img src="https://img.youtube.com/vi/QVgfj7hjp8g/maxresdefault.jpg"/></a></p>
+<p><a href="https://youtu.be/-OIHCNS6qLc" target="_blank"><img src="https://i9.ytimg.com/vi/-OIHCNS6qLc/mqdefault.jpg?v=65c193ed&sqp=CMynhq4G&rs=AOn4CLDIuIxuHhM9tGdMl-JkmPv9MSEa0Q"/></a></p>
 <br/>
-
-
-
-<div align='center'>
-<h3>Agradecimientos</h3>
-  <a href="https://www.nocountry.tech/" target="_blank">
-    <img style='background-color:black;' src="https://i9.ytimg.com/vi/-OIHCNS6qLc/mqdefault.jpg?v=65c193ed&sqp=CMynhq4G&rs=AOn4CLDIuIxuHhM9tGdMl-JkmPv9MSEa0Q" width="200">
-  </a>
-
-
-
-
-
-
-
-
 
 
 ## Autor <br />
