@@ -158,6 +158,29 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 
   + Otros servicios de nube: se pueden investigar otras formas de deployar la API de modo de no tener las limitaciones de capacidad de almacenamiento y poder utilizar la última función del modelo de recomendación o buscar alternativas para almacenar los datos por fuera de Render y conectar con esa fuente para las consultas.
 
+<!-- Video -->
+<h1> Video
+</h1>
+<p><a href="https://youtu.be/-OIHCNS6qLc" target="_blank"><img src="https://img.youtube.com/vi/QVgfj7hjp8g/maxresdefault.jpg"/></a></p>
+<br/>
+
+
+
+<div align='center'>
+<h3>Agradecimientos</h3>
+  <a href="https://www.nocountry.tech/" target="_blank">
+    <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
+  </a>
+
+
+
+
+
+
+
+
+
+
 ## Autor <br />
 <table align='center'>
   <tr>
