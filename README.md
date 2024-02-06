@@ -3,6 +3,36 @@
 <br />
 # Proyecto MLOps: Sistema de Recomendación de Videojuegos para Usuarios de Steam
 
+<div>
+  <p>
+    <strong>Sistema de Gestión de Inventario para pequeñas empresas</strong>. Ofrecemos una solución práctica y simple para ayudar a las mismas a mantener un control eficiente de su inventario, aumentando la rentabilidad y la eficiencia operativa.
+  </p>
+    <div align='center'>
+    <a href="https://stockwise-client.vercel.app/" target="_blank">
+          <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
+       </a>
+   <a href="https://stockwise-iowo.onrender.com/swagger-ui/index.html" target="_blank">
+          <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
+      </a>
+    <a href="https://www.figma.com/file/lIB64kDohOKOsdSNGkOSue/c14-22-ft-java-react" target="_blank">
+          <img  src="https://img.shields.io/badge/VER_DISE%C3%91O-3378FF?style=for-the-badge&logo=figma&logoColor=%23343B4E"/>
+      </a>
+      <a href="https://github.com/No-Country/c14-22-ft-java-react/issues" target="_blank">
+          <img  src="https://img.shields.io/badge/REPORTAR_BUG-343B4E?style=for-the-badge"/>
+      </a>
+      </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 ### Descripción del Proyecto
 
 
