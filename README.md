@@ -159,6 +159,18 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
   + Otros servicios de nube: se pueden investigar otras formas de deployar la API de modo de no tener las limitaciones de capacidad de almacenamiento y poder utilizar la última función del modelo de recomendación o buscar alternativas para almacenar los datos por fuera de Render y conectar con esa fuente para las consultas.
 
 ## Autor <br />
+<table align='center'>
+  <tr>
+    <td align='center'>
+      <div >
+        <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank" rel="Author>
+          <img width="110" src="https://avatars.githubusercontent.com/u/838109"/>
+       
+      </div>
+    </tr>
+
+
+
 #### Karina Kozlowski. <br />
 Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por [LinkedIn](https://bit.ly/3waAAs6)<br />
 =======
