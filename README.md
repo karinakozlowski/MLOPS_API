@@ -138,11 +138,11 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## Ejecutar la API (en su máquina local) 
+## Producto Mínimo Viable (MVP)
 
 Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, se realizaron algunos análisis básicos que se podrían mejorar en próximas etapas, con la idea de lograr un producto completo. Por ejemplo:
 
-  + Análsis de sentimiento: se puede hacer la limpieza de los comentarios, dado que los mismos se encuentran en distintos idiomas, con emoticones y signos de puntuación. Por otra parte, se puede evaluar el rendimiento del modelo probando con distintos umbrales de clasificación.
+  + Análsis de sentimiento: se puede contemplo solo los mensajes en ingles, pero habian de diferentes idiomas.Por otra parte, se puede evaluar el rendimiento del modelo probando con distintos umbrales de clasificación.
 
   + Modelos de recomendación: se puede crear un rating que considere la influencia de las horas de juego de los usuarios, la utilizadad hacia otros usuarios de los comentarios, el precio de los juegos, entre otras variables. También se podrían evaluar otras librerías que realizar este tipo de modelos.
 
