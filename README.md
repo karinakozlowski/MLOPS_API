@@ -169,7 +169,7 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 <div align='center'>
 <h3>Agradecimientos</h3>
   <a href="https://www.nocountry.tech/" target="_blank">
-    <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
+    <img style='background-color:black;' src="https://i9.ytimg.com/vi/-OIHCNS6qLc/mqdefault.jpg?v=65c193ed&sqp=CMynhq4G&rs=AOn4CLDIuIxuHhM9tGdMl-JkmPv9MSEa0Q" width="200">
   </a>
 
 
