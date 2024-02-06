@@ -162,11 +162,15 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 <table align='center'>
   <tr>
     <td align='center'>
-      <div >
-        <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank" rel="Author>
+    
+ <div >
+        <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank" rel="author">
           <img width="110" src="https://avatars.githubusercontent.com/u/838109"/>
         </a>
-      </div>
+         <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>  
+</div>
     </tr>
 
 
