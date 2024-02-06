@@ -80,7 +80,6 @@ Para acceder a la funcionalidad completa de la API y explorar las recomendacione
 
 
 
-
 **3. Modelo de Aprendizaje Automático** <br />
 Creé el sistema de recomendación con uno de los enfoques propuestos:
 - **3.1 *[Sistema de Recomendación ítem-ítem](Notebooks/ML/recomienda_item_item.ipynb)***: Desarrollé un modelo que recomienda juegos similares en base a un juego dado, utilizando similitud del coseno. Con CountVectorizer se convirtieron los textos de la columna 'specs' en vectores numéricos para posterior calcular la similitud del coseno.<br />
@@ -89,14 +88,9 @@ Se utilizó la métrica de **similitud del coseno**, ya que mide el coseno del �
 **4. Implementación de MLOps** <br />
 **Deploy del Modelo:** Desplegué el modelo de recomendación como parte de la API, la cual puedes consultar acá: **[URL de la API](https://kozlowskikarina.wixsite.com/mlops)**. 
 
-
-Para el deploy de la API se seleccionó la plataforma Render que es una nube unificada para crear y ejecutar aplicaciones y sitios web, permitiendo el despliegue automático desde GitHub. Para esto se siguieron estos pasos:
-
-Generación de un Dockerfile cuya imagen es Python 3.10. Esto se hace porque Render usa por defecto Python 3.7, lo que no es compatible con las versiones de las librerías trabajadas en este proyecto, por tal motivo, se optó por deployar el proyecto dentro de este contenedor. Se puede ver el detalle del documento Dockerfile.
-Se generó un servicio nuevo en render.com, conectado al presente repositorio y utilizando Docker como Runtime.
+Para el deploy de la API se seleccionó la plataforma Render que es una nube unificada para crear y ejecutar aplicaciones y sitios web, permitiendo el despliegue automático desde GitHub. 
 
 Como se indicó anteriormente, para el despliegue automático, Render utiliza GitHub y dado que el servicio gratuito cuenta con una limitada capacidad de almacenamiento, se realizó un repositorio exclusivo para el deploy, el cual se encuenta aqui.
-
 
 <br />
 
