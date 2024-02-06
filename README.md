@@ -99,14 +99,14 @@ Grabé un video explicativo que muestra el funcionamiento de la API, consultas r
 <br />
 
 ## Estructura del Repositorio <br />
-**1. [/Notebooks](Notebooks/):** Contiene los Jupyter Notebooks con el Código completo y bien comentado donde se realizaron las extracciones, transformaciones y carga de datos (ETL), análisis exploratorio de los datos (EDA).<br />
+**1. [/Notebooks](Notebooks/):** Contiene los Notebooks de python y con el Código completo y bien comentado donde se realizaron las extracciones, transformaciones y carga de datos (ETL), análisis exploratorio de los datos (EDA).<br />
 
 **2. [/assets](assets/):** Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.<br />
 
 **3. [/dataset](dataset/):** Almacena los datasets utilizados en una versión limpia y procesada de los mismos. Las fuentes de datos iniciales se encuentra almacenadas en la carpeta input en el siguiente repositorio [Google Drive](https://bit.ly/3UudUxb)<br />
-- **3.1 *Archivos_API:*** Contiene los datasets en formato csv consumidos por la API.<br />
-- **3.2 *Archivos_Limpios:*** Contiene los archivos depurados después de haber realizado el ETL.<br />
-- **3.2 *Archivos_ML:*** Contiene los archivos consumidos por la API para hacer el sistema de recomendación.<br />
+- ** *Archivos_API:*** Contiene los datasets en formato parquet consumidos por la API.<br />
+- ** *Archivos_Limpios:*** Contiene los archivos depurados después de haber realizado el ETL.<br />
+- ** *Archivos_ML:*** Contiene los archivos consumidos por la API para hacer el sistema de recomendación.<br />
 
 <br />
 
