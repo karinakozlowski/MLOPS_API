@@ -5,7 +5,7 @@
 
 <div>
     <div align='center'>
-    <a href="https://www.youtube.com/watch?v=bI15plSaY6o" target="_blank">
+    <a href="https://youtu.be/-OIHCNS6qLc" target="_blank">
           <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
        </a>
    <a href="https://kozlowskikarina.wixsite.com/mlops" target="_blank">
@@ -101,7 +101,7 @@ Como se indicó anteriormente, para el despliegue automático, Render utiliza Gi
 <br />
 
 **5. Video Explicativo** <br />
-Grabé un video explicativo que muestra el funcionamiento de la API, consultas realizadas y una breve explicación de los modelos de ML utilizados [Youtube](https://www.youtube.com/watch?v=bI15plSaY6o).<br />
+Grabé un video explicativo que muestra el funcionamiento de la API, consultas realizadas y una breve explicación de los modelos de ML utilizados [Youtube](https://youtu.be/-OIHCNS6qLc).<br />
 <br />
 
 ## Estructura del Repositorio <br />
@@ -114,7 +114,7 @@ Grabé un video explicativo que muestra el funcionamiento de la API, consultas r
 
 **3. [/assets](assets/):** Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.<br />
 
-**4. [/Video](Video/):** Contiene el video explicativo del proyecto, el cual se encuentra publicado en [Youtube](https://www.youtube.com/watch?v=bI15plSaY6o).<br />
+**4. [/Video](Video/):** Contiene el video explicativo del proyecto, el cual se encuentra publicado en [Youtube](https://youtu.be/-OIHCNS6qLc).<br />
 <br />
 
 ## Ejecutar la API (en su máquina local) <br />
