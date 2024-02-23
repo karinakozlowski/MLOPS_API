@@ -151,12 +151,6 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 
   + Otros servicios de nube: se pueden investigar otras formas de deployar la API de modo de no tener las limitaciones de capacidad de almacenamiento y poder utilizar la última función del modelo de recomendación o buscar alternativas para almacenar los datos por fuera de Render y conectar con esa fuente para las consultas.
 
-<!-- Video -->
-<h1> Video
-</h1>
-<p><a href="https://youtu.be/-OIHCNS6qLc" target="_blank"><img src="https://i9.ytimg.com/vi/-OIHCNS6qLc/mqdefault.jpg?v=65c193ed&sqp=CMynhq4G&rs=AOn4CLDIuIxuHhM9tGdMl-JkmPv9MSEa0Q"/></a></p>
-<br/>
-
 
 ## Autor <br />
 
