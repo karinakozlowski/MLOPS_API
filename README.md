@@ -159,24 +159,26 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
 
 
 ## Autor <br />
-<table align='center'>
-  <tr>
-    <td align='center'>
-    
- <div >
-        <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank" rel="author">
-          <img width="110" src="https://avatars.githubusercontent.com/u/838109"/>
-        </a>
-         <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/838109" width="200" alt="Karina Kozlowski">
+  </a>
+  <br>
+  Karina Kozlowski - Role: Machine Engineer
+  <br>
+  <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href='mailto:kozlowskikarina@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
-    </tr>
 
 
 
-#### Karina Kozlowski. <br />
+## Karina Kozlowski. <br />
 Para cualquier duda/sugerencia/recomendación/mejora respecto al proyecto con toda libertad puedes contactarme por [LinkedIn](https://bit.ly/3waAAs6)<br />
-=======
+
 
 
