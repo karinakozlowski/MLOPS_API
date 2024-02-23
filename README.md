@@ -159,7 +159,9 @@ Dado que el objetivo de este proyecto fue presentar un Producto Mínimo Viable, 
     <img src="https://avatars.githubusercontent.com/u/838109" width="200" alt="Karina Kozlowski">
   </a>
   <br>
-  Karina Kozlowski - Role: Machine Engineer
+  <span>Karina Kozlowski</span>
+  <br>
+  <span>Role: Machine Engineer</span>
   <br>
   <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
