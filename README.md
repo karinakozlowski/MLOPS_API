@@ -5,15 +5,15 @@
 
 <div>
     <div align='center'>
-    <a href="https://youtu.be/-OIHCNS6qLc" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
+    <a href="https://kozlowskikarina.wixsite.com/mlops"_blank">
+          <img  src="https://github.com/karinakozlowski/MLOPS_API/blob/main/assets/BotonAPI.png"/>
        </a>
-   <a href="https://kozlowskikarina.wixsite.com/mlops" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
+   <a href="https://youtu.be/-OIHCNS6qLc" target="_blank">
+          <img  src="https://github.com/karinakozlowski/MLOPS_API/blob/main/assets/BotonYoutube.png"/>
       </a>
       </div>
 </div>
-
+https://youtu.be/-OIHCNS6qLc
 
 
 
